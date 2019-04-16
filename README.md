@@ -25,7 +25,7 @@ Local copy is found [here](/data/nyc-weather.csv).
 
 ## Python Notebook
 
-This python notebook analyzes the differences between Madrid and New York City. Being both cities in the 40 degrees latitude is interesting that both have very different climate profiles.
+[This python notebook](/weather.ipynb) analyzes the differences between Madrid and New York City. Being both cities in the 40 degrees latitude is interesting that both have very different climate profiles.
 
-This notebook tries to study that.
+This notebook tries to study that and give some visual clues about the weather of both cities.
 
